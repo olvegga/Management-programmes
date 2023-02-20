@@ -1,0 +1,10 @@
+User Overview
+Total of users registered with task_manager.py: 1
+Total of tasks generated and tracked with task_manager.py = 2
+
+admin Report:
+Total of tasks assigned to admin: 2
+Percentage of total tasks assigned to admin: 100.0%
+Percentage of completed tasks: 0.0%
+Percentage of incomplete tasks: 100.0%
+Percentage of incomplete tasks that are also overdue: 100.0%
